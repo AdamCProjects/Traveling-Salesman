@@ -1,0 +1,1 @@
+This repository contains an implementation of the Traveling Salesman Problem (TSP) using two different simulated annealing methods. The project includes datasets of city layouts, Python class implementations, and a Jupyter Notebook for comparing the methods and visualizing results.
